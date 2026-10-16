@@ -1,0 +1,27 @@
+{
+  "name": "haruneko-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haru0655jp-games/haruneko-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "bugs": {
+    "url": "https://github.com/haru0655jp-games/haruneko-server/issues"
+  },
+  "homepage": "https://github.com/haru0655jp-games/haruneko-server#readme",
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}
